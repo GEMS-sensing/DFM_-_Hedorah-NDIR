@@ -1,0 +1,6 @@
+"Qty","Value","Device","Package","Parts","Description","DIGIKEY","MF","MPN","VALUE","VALUE_PART",
+"2","10k","R-EU_10KR0603","R0603","R1, R2","RESISTOR, European symbol","311-10.0KHRCT-ND","Yageo","RC0603FR-0710KL","","10k",
+"1","CONN_42.54","CONN_42.54","1X04","J2","Genaric 4 terminal header","ED7564-04-ND","Mill-Max","800-10-004-10-002000","","",
+"1","CONN_I2C_SENSOR_BOARD_MOUNT_TH_RA","CONN_I2C_SENSOR_BOARD_MOUNT_TH_RA","CONEC_43-01204","J1","GEMS Connector for I2C Devices - Sensor Side","626-2136-ND","Conec","43-01204","","",
+"1","DMG3404","MOSFET-NCH-DMG3404L","SOT23-3","Q1","N-channel MOSFETs","DMG3404L-7DICT-ND","Diodes Incorporated","DMG3404L-7","DMG3404","",
+"1","JUMPER-SMT_2_NO_SILK","JUMPER-SMT_2_NO_SILK","SMT-JUMPER_2_NO_SILK","JP1","Normally open jumper","DNP","N/A","N/A","","",

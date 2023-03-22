@@ -1,0 +1,15 @@
+Item,Make,Model,Part Number,Qty,Notes
+Hedorah Sensor Board,Caltronics,NDIR_SensorInterface_1v0,N/A,1,
+CO2 Sensor,Sensirion,SCD30,SCD30,1,
+"Conn, 4 pos",Mill-Max,CONN HEADER VERT 4POS 2.54MM,800-10-004-10-002000,1,
+Body,Custom,HEDORAH-001_-_BetaBody_v001,N/A,1,
+Lid,Custom,HEDORAH-002_-_BetaLid_v000,N/A,1,
+Gasket,Custom,HEDORAH-003_-_BetaGasket_v001,N/A,1,
+Vent,Amphenol ,Breathable Vent,VENT-PS1NGY-O8002,2,
+"Screw, 0-80, 5/16""",Generic,"18-8ÿStainless Steel Socket Head Screw 0-80ÿThreadÿSize,ÿ5/16""ÿLong",92196A056,2,"McMaster Part Number, for mounting CO2 sensor"
+"Nut, 0-80",Generic,"18-8 Stainless Steel Hex Nut
+0-80 Thread Size",91841A115,2,"McMaster Part Number, for mounting CO2 sensor"
+"Spacer, #0",Generic,"Off-White Nylon Unthreaded Spacer
+1/8"" OD, 1/8"" Long, for Number 0 Screw Size",94639A459,2,"McMaster Part Number, for mounting CO2 sensor"
+Thread Cutting Screws,Generic,"Torx Plus Rounded Head Thread-Forming Screws
+for Plastic, 18-8 Stainless Steel, Number 6 Size, 3/8"" Long",96001A260,4,"McMaster Part Number, for joining housing body"
